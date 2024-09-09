@@ -1,16 +1,31 @@
 # Historia: Nerva Rompecraneos
 Había una vez, en un reino distante, una valiente orco llamada Nerva. Desde una edad temprana,
 su padre, un respetado miembro de la guardia y el ejército, deseaba que ella siguiera sus pasos y
-continuara con su legado. Con amor y dedicación, le enseñó las artes marciales y el manejo de la
+continuara con el legado generacional de los Rompecraneos. Con amor y dedicación, le enseñó las artes marciales y el manejo de la
 espada, esperando que Nerva se convirtiera en una guerrera formidable.
 
-Sin embargo, en lo más profundo de su corazón, Nerva anhelaba algo más que la vida que su
+Sin embargo, Nerva no solo tenía la influencia de su padre; su abuelo, Kraag Rompecráneos, también 
+desempeñó un papel crucial en su vida. Kraag fue un guerrero legendario, tan reconocido como su hijo Drakar, 
+si no más. Se contaban historias sobre sus hazañas en la batalla y su ferocidad en combate. Sin embargo, 
+después de una grave lesión de la que nunca se recuperó por completo, Kraag se vio obligado a retirarse 
+del ejército. En lugar de dejar que la amargura lo consumiera, Kraag abrió una taberna donde los guerreros 
+y sus compañeros pudieran relajarse y disfrutar después de sus duras jornadas de trabajo. Este lugar, que 
+él llamó **"El Cráneo Dorado"**, se convirtió rápidamente en un refugio para aquellos que buscaban un respiro 
+del campo de batalla. La taberna de Kraag no solo era un negocio; era un símbolo de camaradería y fortaleza, 
+donde contaba sus historias de batalla y ofrecía su sabiduría a quienes buscaban consejo. Nerva, de niña, 
+pasaba horas escuchando las historias de los guerreros que visitaban la taberna, y fue allí donde nació su 
+ilusión de algún día tener su propio negocio.
+
+La idea de un lugar donde guerreros y aventureros pudieran reunirse le parecía fascinante, y sentía un profundo 
+orgullo por el legado de su abuelo. Aunque su padre Drakar desaprobaba la idea, Nerva estaba decidida a seguir su propio camino.
+
+Nerva anhelaba algo más que la vida que su
 padre había planeado para ella. No quería simplemente ser una soldado obediente, sino que
 ansiaba tener su propia identidad, su propia vida y un negocio propio. Esta idea chocaba con los
 deseos de su padre, generando un conflicto interno en Nerva.
 
 Finalmente, tomando una decisión audaz y desafiante, Nerva se negó a seguir los sueños de su
-padre y abrió su propia taberna: **El Filo Dorado**. Allí, esperaba forjar su propio camino y encontrar la libertad que
+padre y abrió su propia taberna: **"El Filo Dorado"**. Allí, esperaba forjar su propio camino y encontrar la libertad que
 tanto ansiaba. Al principio, todo parecía ir bien. La taberna de Nerva era un lugar popular y
 acogedor, donde los clientes disfrutaban de buena comida, bebida y compañía.
 
@@ -87,4 +102,4 @@ engañar nuevamente y a encontrar un nuevo camino hacia la prosperidad y la feli
 
 Así, con la espada en mano y su determinación inquebrantable, Nerva se aventuró en un mundo
 lleno de peligros y oportunidades. Su objetivo era obtener la riqueza necesaria para reinventar su
-negocio y construir una nueva taberna.
+negocio y construir una nueva taberna, tal como lo habría hecho su abuelo.
