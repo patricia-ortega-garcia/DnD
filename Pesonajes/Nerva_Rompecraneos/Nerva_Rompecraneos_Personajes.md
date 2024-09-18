@@ -1,4 +1,16 @@
 # Personajes
+<ins>**Kroog Rompecráneos:**</ins> El abuelo de Nerva es un orco cuyo nombre aun se recuerda por su ferocidad
+en batalla y su habilidad como estratéga. Kraag, conocido por su implacable determinación en combate, fue un 
+guerrero que vivió y luchó por la gloria de su pueblo. Sin embargo, su carrera militar llegó a su fin después 
+de una herida severa que lo dejó incapacitado para continuar en el campo de batalla.  
+Lejos de hundirse en la amargura, Kraag decidió canalizar su energia y ambición en un nuevo propósito. Abrió 
+una taberna llamada "El Cráneo Dorado", que pronto se convirtió en un refugio para guerreros y aventureros en 
+busca de descanso y compañía tras arduas jornadas. Más que un simple negocio, la taberna era un símbolo de 
+fortaleza y camaradería, un lugar donde Kraag compartía sus historias y consejos con aquellos que necesitaban guía. 
+Con su carácter duro pero justo, Kraag se ganó el respeto de los más jóvenes, incluidas figuras como su nieta Nerva, 
+quien absorbió sus enseñanzas y desarrolló el sueño de seguir sus pasos, y crear un espacio en el que las personas 
+pudieran reunirse para compartir historias. 
+
 <ins>**Drakar Rompecráneos:**</ins> El padre de Nerva es un orco de carácter fuerte y estricto. Siendo un
 miembro respetado de la guardia y el ejército, siempre había soñado con que su hija siguiera sus
 pasos y continuara su legado familiar. Sin embargo, cuando Nerva decide abrir su propia taberna
@@ -31,12 +43,16 @@ por entender y aceptar las decisiones de su hermana.
 <ins>**Selene:**</ins> Selene es la socia principal de Nerva en la taberna. Inicialmente, es encantadora y
 persuasiva, pero oculta una naturaleza oscura. Está involucrada en actividades ilegales, como el
 tráfico de objetos robados y el contrabando. Su codicia y malas decisiones llevan a la ruina de la
-taberna y a la pérdida de todo para Nerva.
+taberna y a la pérdida de todo para Nerva. Para evitar que Nerva declare en su contra, intenta asesinarla. 
+Por suerte, un grupo de personas ayuda a Nerva a defenderse del ataque. 
 
-<ins>**Elysia:**</ins> Elysia es una camarera que trabajó en la taberna de Nerva. A pesar de las dificultades,
-Elysia siempre mostró lealtad y apoyo incondicional a Nerva. Es una persona confiable y valiente
-que nunca dudó en defender a su amiga. Después del cierre de la taberna, Elysia se convierte en
-una de las pocas personas en quien Nerva confía.
+<ins>**Elysia:**</ins> Elysia es una camarera que trabajó en la taberna de Nerva. Nerva y Elysia se 
+conocieron poco despues de llegar a la ciudad. Era una joven que también había venido a la ciudad 
+buscando una vida mejor. Elysia y Nerva conectaron casi de inmediato, y cuando Nerva abrió la taberna,
+le ofreció un lugar en el que trabajar. A pesar de las dificultades, Elysia siempre mostró lealtad 
+y apoyo incondicional a Nerva. Es una persona confiable y valiente que nunca dudó en defender a su 
+amiga. Después del cierre de la taberna, Elysia se convierte en una de las pocas personas en quien 
+Nerva confía.
 
 <ins>**Dorian "El Informante":**</ins> Dorian es un informante sombrío y astuto que trabaja en las sombras
 del bajo mundo. Tiene una estrecha relación con Selene y es su principal fuente de información
