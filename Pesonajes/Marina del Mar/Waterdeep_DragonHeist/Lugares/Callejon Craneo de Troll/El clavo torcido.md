@@ -1,0 +1,1 @@
+Tally, es un semielfo joven que regenta esta carpintería.

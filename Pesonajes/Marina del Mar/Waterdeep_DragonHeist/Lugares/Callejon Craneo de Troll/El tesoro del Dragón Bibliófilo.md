@@ -1,0 +1,1 @@
+Una tremenda librería en la que se pueden comprar libros o pagar por copiar hechizos del libro de Rishaal, el anciano dracónido que regenta el lugar.

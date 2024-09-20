@@ -1,0 +1,1 @@
+Es la herrería del barrio y está regentada por un matrimonio de Genashi (Ella de agua y el de fuego) llamados Avi y Embric respectivamente, eran posiblemente quienes mas conocian a Lif.

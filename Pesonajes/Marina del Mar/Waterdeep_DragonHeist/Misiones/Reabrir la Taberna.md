@@ -1,0 +1,5 @@
+- [x] Limpiar la taberna
+- [x] Reforma de la taberna
+- [x] Licencia y contrato del gremio de taberneros
+- [ ] 400/1000 monedas de Oro
+- [ ] Encontrar personal (Camarero, Cocinero, Limpiador)

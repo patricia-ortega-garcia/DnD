@@ -1,0 +1,1 @@
+Una agencia privada de investigación en la que el detactive Vincent Tranch acepta encargos de todo tipo

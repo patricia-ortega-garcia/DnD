@@ -1,0 +1,1 @@
+Los [[Gremio de Zhentarim|Zhents]] están pagando a bandas del Distrito de la Explanada para atacar a presuntos miembros del [[Gremio de Xanathar]]. Se están produciendo reyertas en ese distrito todos los días. Tenemos que detener una de esas peleas antes de que dé comienzo. Debemos hacer entender a los matones que no toleraremos más altercados. 

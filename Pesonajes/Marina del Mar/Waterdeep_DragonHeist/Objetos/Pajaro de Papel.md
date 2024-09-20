@@ -1,0 +1,1 @@
+Despues de escribir un mensaje de 50 palabras o menos en este pergamino de papel y decir el nombre de una criatura, el pergamino se dobla mágicamente en forma de pajaro y vuela hasta la criatura nombrada. La persona debe estar en el mismo plano de existencia que tú, si no el pájaro se convierte en cenizas al echar a volar. 

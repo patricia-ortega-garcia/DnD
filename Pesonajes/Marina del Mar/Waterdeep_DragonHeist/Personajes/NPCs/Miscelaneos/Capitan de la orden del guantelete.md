@@ -1,0 +1,1 @@
+Capitán De la [[Orden del Guantelete]]. Había una persona haciéndose pasar por él. El imitador estaba guardando cadáveres en la [[Bag of Holding]]. 
