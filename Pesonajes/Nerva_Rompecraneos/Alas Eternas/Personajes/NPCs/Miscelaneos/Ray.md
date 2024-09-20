@@ -1,3 +1,4 @@
+#Vortex
 ## Apariencia
 ![|300](https://s3.amazonaws.com/files.d20.io/images/410071170/MG7HnlQTUuHMgFnF4kovyA/med.webp?1726738781)
 
@@ -7,3 +8,7 @@ Soy un humano fighter de 21 años, me llamo Raymond aunque todo el mundo me llam
 ## Historia
 
 ## Relaciones
+- Eldan
+- Milo
+- Brug
+- Kethis

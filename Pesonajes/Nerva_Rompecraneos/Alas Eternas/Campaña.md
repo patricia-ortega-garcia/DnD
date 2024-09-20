@@ -15,6 +15,7 @@
 - Merchant's Scale
 - Set de ropa buena
 - Belt Pouch
+- Bolsa con gemas (75po)
 
 ## Información General
 Roll20: https://app.roll20.net/join/18037645/WaGuOQ

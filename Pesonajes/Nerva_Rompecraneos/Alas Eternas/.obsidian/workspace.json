@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a166530f077b50d7",
+        "id": "63ed38918cc72019",
         "type": "tabs",
         "children": [
           {
-            "id": "289ed29c897553af",
+            "id": "35c0dd47a3021908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Misiones/Investigar Agel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Misiones/Investigar Agel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Misiones/Investigar Agel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 1.md"
+                "file": "Misiones/Investigar Agel.md"
               }
             }
           },
@@ -163,6 +163,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "289ed29c897553af",
-  "lastOpenFiles": []
+  "active": "554b263bd0cd17cc",
+  "lastOpenFiles": [
+    "Lugares/Templo de Agel.md",
+    "Misiones/Investigar Agel.md",
+    "Sesiones/Sesión 1.md",
+    "Mundo/Naciones/Arggatral.md",
+    "Campaña.md",
+    "Pasted image 20240921004157.png",
+    "Recursos/Pasted image 20240921004213.png",
+    "cristalicitas.md",
+    "Recursos/Pasted image 20240921000216.png",
+    "Recursos/Imagenes/Pasted image 20240921000017.png",
+    "Recursos/Imagenes/Pasted image 20240920234735.png",
+    "Misiones/Completadas",
+    "Misiones",
+    "Personajes/NPCs/Miscelaneos/Ray.md",
+    "Personajes/NPCs/Miscelaneos/Elysia.md",
+    "Objetos/Vortex.md",
+    "Personajes/PCs/Nerva Rompecráneos.md",
+    "Personajes/PCs/Alais.md",
+    "Personajes/PCs/Solaris.md",
+    "Objetos/Documentos/Carta de Raymon.md",
+    "Objetos/Cristalicita.md"
+  ]
 }
