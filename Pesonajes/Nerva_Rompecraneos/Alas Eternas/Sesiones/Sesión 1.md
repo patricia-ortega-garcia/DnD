@@ -1,2 +1,2 @@
 ## Resumen de la sesión
-Empezamos la aventura en 
+Empezamos nuestra aventura en 
