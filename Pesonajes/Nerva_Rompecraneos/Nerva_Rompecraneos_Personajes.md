@@ -1,5 +1,5 @@
 # Personajes
-<ins>**Kroog Rompecráneos:**</ins> El abuelo de Nerva es un orco cuyo nombre aun se recuerda por su ferocidad
+<ins>**Kraag Rompecráneos:**</ins> El abuelo de Nerva es un orco cuyo nombre aun se recuerda por su ferocidad
 en batalla y su habilidad como estratéga. Kraag, conocido por su implacable determinación en combate, fue un 
 guerrero que vivió y luchó por la gloria de su pueblo. Sin embargo, su carrera militar llegó a su fin después 
 de una herida severa que lo dejó incapacitado para continuar en el campo de batalla.  
