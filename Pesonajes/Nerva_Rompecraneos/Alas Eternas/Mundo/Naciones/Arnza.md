@@ -1,0 +1,8 @@
+#ciudad #Arggatral
+![Arnza|500](https://cdn.discordapp.com/attachments/1282442123769155595/1282442124360421376/file-rwTuL0tknB0JIwu5cRrhbFkW.png?ex=66ee880d&is=66ed368d&hm=283c8fc001f94a4cfca2531aaf749d17223e9121764bb730d9790552f817fea1&)
+
+Arnza, capital de [[Arggatral]], de los humanos y de la diosa [[Eva]], se alza imponente a orillas del océano indómito. La ciudad está rodeada por unas enormes murallas de piedra que parecen desafiar tanto el tiempo como las fuerzas naturales, llevan milenios en pie, no son conquistadas des de la guerra elemental. En su interior, las estructuras de piedra blanca y gris se elevan en elegantes torres, cuyas cúpulas y campanarios dominan el horizonte.
+
+En el corazón de Arnza, se erige una ciudadela, vigilando desde lo alto las calles abarrotadas de vida. Los mercados rebosan de actividad, con comerciantes de todas partes de Luominen vendiendo desde especias exóticas hasta armas forjadas con maestría. Las callejuelas adoquinadas serpentean entre edificios antiguos que han sido testigos de incontables generaciones de humanos.
+
+Más allá de la seguridad de las murallas, el océano indómito ruge en la distancia, su interminable batalla contra las rocas de la costa hace que los regimientos de Arggatral siempre estén trabajando en reparaciones y manteniendo el océano a ralla. El horizonte siempre está dominado por el avance de nubes de tormenta, una constante amenaza que refleja el desafío de la vida frente a las fuerzas implacables de la naturaleza. Sin embargo, Arnza permanece firme, es una fortaleza contra los vientos del destino, y, sus gentes un ejército que superará cualquier adversidad.

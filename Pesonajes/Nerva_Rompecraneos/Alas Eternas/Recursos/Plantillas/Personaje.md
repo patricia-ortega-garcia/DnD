@@ -1,0 +1,7 @@
+## Apariencia
+
+
+## Trasfondo
+
+
+## Relaciones
