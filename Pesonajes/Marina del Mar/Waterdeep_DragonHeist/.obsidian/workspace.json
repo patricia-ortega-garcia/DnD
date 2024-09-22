@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Callejon Craneo de Troll/Cráneo de Troll.md",
+                "file": "Sesiones/Sesión 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "014783b8c9bf9df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 10 (Resumen de lo perdido).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Sesiones/Sesión 10 (Resumen de lo perdido).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Sesiones/Sesión 10 (Resumen de lo perdido).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 2.md"
+                "file": "Sesiones/Sesión 10 (Resumen de lo perdido).md"
               }
             }
+          },
+          {
+            "id": "1835044abe608d02",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,42 +176,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02cb9065b9770904",
+  "active": "014783b8c9bf9df9",
   "lastOpenFiles": [
+    "Sesiones/Sesión 8.md",
+    "Sesiones/Sesión 7.md",
+    "Sesiones/Sesión 11.md",
+    "Sesiones/Sesión 10 (Resumen de lo perdido).md",
+    "Objetos/Collar de Fireball.md",
+    "Sesiones/Sesión 2.md",
+    "Objetos/Bag of Holding.md",
+    "Personajes/NPCs/Miscelaneos/Raener Neverember.md",
+    "Objetos/Piedra de Golorr.md",
+    "Sesiones/Sesión 3.md",
+    "Sesiones/Sesión 4.md",
+    "Lugares/Callejon Craneo de Troll/Cráneo de Troll.md",
+    "Personajes/NPCs/Miscelaneos/Floon Blagmaar.md",
     "Sesiones/Sesión 1.md",
+    "Lugares/clavo torcido.md",
+    "Lugares/Waterdeep.md",
+    "Lugares/Dragon Ensartado.md",
+    "Lugares/Portal Bostezante.md",
+    "Objetos/Deck of Illusions.md",
+    "Objetos/Moneda de la suerte.md",
+    "Objetos/Pajaro de Papel.md",
+    "Objetos/Wand of Web.md",
     "Campaña.md",
     "Facciones/Orden del Guantelete.md",
     "Facciones/Gremio de Zhentarim.md",
     "Facciones/Gremio de Xanathar.md",
-    "Facciones/El Enclave Esmeralda.md",
-    "Lugares/Waterdeep.md",
-    "Lugares/Portal Bostezante.md",
-    "Lugares/Dragon Ensartado.md",
-    "Lugares/clavo torcido.md",
-    "Misiones/Completadas/Orden Del Guantelete, Pelea de Bandas.md",
-    "Misiones/Completadas/Encontrar a Floon Blagmaar.md",
-    "Misiones/Completadas/Enclave Esmeralda, Espantapajaros.md",
-    "Misiones/Reabrir la Taberna.md",
-    "Misiones/Ataque a la Orden del Guantelete.md",
-    "Sesiones/Sesión 10.md",
-    "Sesiones/Sesión 8.md",
-    "Sesiones/Sesión 7.md",
-    "Sesiones/Sesión 6.md",
-    "Sesiones/Sesión 5.md",
-    "Sesiones/Sesión 4.md",
-    "Sesiones/Sesión 3.md",
-    "Sesiones/Sesión 2.md",
-    "Misiones/Agenda.md",
     "Misiones/Completadas",
     "Misiones",
     "ZZZAttachments/H7j25xKWygHqgshpWqc6ncTSXczeqmUEjIa7WpX5.png",
     "ZZZAttachments/iJqkXVoVrl1PPkwzm88pIL3pPMO7UWqheNt6FOmM.png",
     "ZZZAttachments/aH1T06LImxF0xvrthY6Bc3WOOJdjLBjZ89gMYfgE.png",
-    "Sesiones/Sesión 9.md",
-    "Sesión 10.md",
     "ZZZAttachments/00c0d7aaf179a6017ad90014b8c1fe35.png",
     "ZZZAttachments/ed5efb848aaf7b800c1cfc3fe6a6c202.png",
     "ZZZAttachments/f85b3e29f27e1aafc6dd225bc7a3f5ae.png",

@@ -4,7 +4,11 @@
 
 Poción de Curación
 1 moneda de la suerte
+Collar de fireball (3 cargas)
 
 55lb de Hierro 
 
-<img style="width: 75%" src="G:\Mi unidad\OBSIDIAN_ONLINE\Waterdeep_DragonHeist\ZZZAttachments\BagHolding.PNG"> 
+2 cadaveres de hombre-rata
+Raudoescolta
+
+Pergamino de hablar con los muertos
