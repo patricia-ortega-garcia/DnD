@@ -8,7 +8,7 @@ Soy un humano fighter de 21 años, me llamo Raymond aunque todo el mundo me llam
 ## Historia
 
 ## Relaciones
-- Eldan
-- Milo
-- Brug
-- Kethis
+- [[Eldan]]
+- [[Milo]]
+- [[Brug]]
+- [[Kethis]]

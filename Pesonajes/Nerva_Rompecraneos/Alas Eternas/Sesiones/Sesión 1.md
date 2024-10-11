@@ -1,7 +1,7 @@
 
 ## Resumen de la sesión
 Empezamos nuestra aventura en Arnza. 
-Vemos el [[Vortex]] de [[Ray]] sobrevolar la ciudad.
+Vemos el [[Vórtex]] de [[Ray]] sobrevolar la ciudad.
 
 Vamos a tomar algo con Ray para que nos explique el propósito de la [[Carta de Raymon]]
 	Un hombre le contó sobre un grupo de aventureros que tenian un barco volador. El vehiculo funcionaba gracias a una piedra que encontraron en una isla llamada Agel.

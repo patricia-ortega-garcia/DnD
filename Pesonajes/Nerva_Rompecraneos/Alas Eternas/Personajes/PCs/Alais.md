@@ -16,3 +16,4 @@ En agradecimiento de este cargo gubernamental, trabaja para devolver el favor.
 - [[Xat'Ap]]: Compañero
 - [[Nerva Rompecráneos]]: Compañera
 - [[Ray]]: Conocido
+- Padre: Cargo del gobierno
