@@ -22,7 +22,7 @@ Roll20: https://app.roll20.net/join/18037645/WaGuOQ
 
 **Sesiones**
 - [[Sesión 1]] 20/09/2024
-- [[Sesión 2]] 
+- [[Sesión 2]] 11/09/2024
 - [[Sesión 3]] 
 - [[Sesión 4]] 
 - [[Sesión 5]] 

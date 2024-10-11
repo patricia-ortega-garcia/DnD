@@ -1,3 +1,4 @@
+
 ## Resumen de la sesión
 Empezamos nuestra aventura en Arnza. 
 Vemos el [[Vortex]] de [[Ray]] sobrevolar la ciudad.

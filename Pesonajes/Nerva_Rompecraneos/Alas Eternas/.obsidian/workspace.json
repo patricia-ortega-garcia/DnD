@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Sesiones/Sesión 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Sesiones/Sesión 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Sesiones/Sesión 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 1.md"
+                "file": "Sesiones/Sesión 2.md"
               }
             }
           },
@@ -165,15 +165,22 @@
   },
   "active": "35c0dd47a3021908",
   "lastOpenFiles": [
+    "Sesiones/Sesión 1.md",
+    "Campaña.md",
+    "Mundo/Naciones/Arnza.md",
+    "Mundo/Naciones/Arntlei.md",
+    "Mundo/Naciones/Arggatral.md",
+    "Mundo/Naciones/Arathia.md",
+    "Sesiones/Sesión 2.md",
+    "Recursos/Imagenes/Pasted image 20241011215943.png",
+    "Recursos/Imagenes/Pasted image 20241011215923.png",
+    "Recursos/Plantillas/Personaje.md",
     "Misiones/Investigar Agel.md",
     "Lugares/Templo de Agel.md",
-    "Sesiones/Sesión 1.md",
-    "Mundo/Naciones/Arggatral.md",
-    "Campaña.md",
     "Pasted image 20240921004157.png",
-    "Recursos/Pasted image 20240921004213.png",
+    "Recursos/Imagenes/Pasted image 20240921004213.png",
     "cristalicitas.md",
-    "Recursos/Pasted image 20240921000216.png",
+    "Recursos/Imagenes/Pasted image 20240921000216.png",
     "Recursos/Imagenes/Pasted image 20240921000017.png",
     "Recursos/Imagenes/Pasted image 20240920234735.png",
     "Misiones/Completadas",
