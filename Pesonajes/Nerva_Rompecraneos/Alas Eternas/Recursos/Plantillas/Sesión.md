@@ -1,0 +1,2 @@
+
+## Resumen de la sesión

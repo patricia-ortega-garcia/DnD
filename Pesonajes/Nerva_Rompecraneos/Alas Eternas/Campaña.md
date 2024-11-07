@@ -21,9 +21,9 @@
 Roll20: https://app.roll20.net/join/18037645/WaGuOQ
 
 **Sesiones**
-- [[Sesión 1]] 20/09/2024
+- [[Sesión 1]] 20/08/2024
 - [[Sesión 2]] 11/09/2024
-- [[Sesión 3]] 
+- [[Sesión 3]] 07/09/2024
 - [[Sesión 4]] 
 - [[Sesión 5]] 
 ## Orbain

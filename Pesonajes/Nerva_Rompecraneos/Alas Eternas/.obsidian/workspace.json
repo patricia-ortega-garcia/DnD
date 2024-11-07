@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Sesiones/Sesión 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Sesiones/Sesión 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Sesiones/Sesión 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 2.md"
+                "file": "Sesiones/Sesión 3.md"
               }
             }
           },
           {
-            "id": "370641e2fe36f3fa",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "554b263bd0cd17cc",
+            "id": "807c5f82bde534da",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,10 +157,21 @@
   },
   "active": "5a85aad85ea7eb64",
   "lastOpenFiles": [
-    "Pasted image 20241011233036.png",
-    "Pasted image 20241011232901.png",
-    "Personajes/PCs/Alais.md",
+    "Lugares/Templo de Agel.md",
+    "Sesiones/Sesión 3.md",
+    "Recursos/Imagenes/Pasted image 20241108000620.png",
+    "Sesiones/Sesión 1.md",
     "Sesiones/Sesión 2.md",
+    "Recursos/Imagenes/Pasted image 20241107234336.png",
+    "Recursos/Imagenes/Pasted image 20241107234317.png",
+    "Recursos/Imagenes/Pasted image 20241107223616.png",
+    "Recursos/Imagenes/Pasted image 20241107223544.png",
+    "Campaña.md",
+    "Recursos/Plantillas/Sesión.md",
+    "Recursos/Plantillas/Personaje.md",
+    "Recursos/Imagenes/Pasted image 20241011233036.png",
+    "Recursos/Imagenes/Pasted image 20241011232901.png",
+    "Personajes/PCs/Alais.md",
     "Mundo/Naciones/Arnza.md",
     "Mundo/Naciones/Arntlei.md",
     "Mundo/Naciones/Arggatral.md",
@@ -189,22 +192,10 @@
     "Personajes/NPCs/Miscelaneos/Elysia.md",
     "Recursos/Imagenes/Pasted image 20241011222234.png",
     "Recursos/Imagenes/Pasted image 20241011222157.png",
-    "Sesiones/Sesión 1.md",
-    "Lugares/Templo de Agel.md",
     "Recursos/Imagenes/Pasted image 20241011221726.png",
-    "Recursos/Imagenes/Pasted image 20241011221649.png",
     "Personajes/NPCs/Miscelaneos/Vórtex ⛵​",
-    "Campaña.md",
-    "Recursos/Imagenes/Pasted image 20241011215943.png",
-    "Recursos/Imagenes/Pasted image 20241011215923.png",
-    "Recursos/Plantillas/Personaje.md",
-    "Pasted image 20240921004157.png",
-    "Recursos/Imagenes/Pasted image 20240921004213.png",
     "cristalicitas.md",
-    "Recursos/Imagenes/Pasted image 20240921000216.png",
     "Misiones/Completadas",
-    "Misiones",
-    "Personajes/PCs/Nerva Rompecráneos.md",
-    "Personajes/PCs/Solaris.md"
+    "Misiones"
   ]
 }
