@@ -1,6 +1,6 @@
 
 ## Resumen de la sesión
-Vamos recuperando la concienza poco a poco. La superficie del barco está mojada, está oscuro. La luz del sol penetra entre los arboles y el barco.
+Vamos recuperando la conciencia poco a poco. La superficie del barco está mojada, está oscuro. La luz del sol penetra entre los arboles y el barco.
 
 No hay señales de la escama negra (los kobolds).
 Me incorporo con dificultad y daño en el tobillo. Veo que el interior del Agelor ha sufrido daños. 
