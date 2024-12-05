@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 3.md",
+                "file": "Mundo/Las 7 Islas/Zephyro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 3"
+              "title": "Zephyro"
+            }
+          },
+          {
+            "id": "31ea25bf403755e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 5"
             }
           },
           {
@@ -27,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 4.md",
+                "file": "Mundo/Las 7 Islas/Talassa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 4"
-            }
-          },
-          {
-            "id": "7ad912850b851cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Dioses/El Eterno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El Eterno"
+              "title": "Talassa"
             }
           }
         ],
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 3.md",
+                "file": "Sesiones/Sesión 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sesión 3"
+              "title": "Outgoing links from Sesión 5"
             }
           },
           {
@@ -168,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 3.md"
+                "file": "Sesiones/Sesión 5.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 3"
+              "title": "Outline of Sesión 5"
             }
           },
           {
@@ -202,27 +203,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a85aad85ea7eb64",
+  "active": "31ea25bf403755e9",
   "lastOpenFiles": [
+    "Mundo/Las 7 Islas/Talassa.md",
+    "Sesiones/Sesión 5.md",
+    "Sesiones/Sesión 1.md",
+    "Recursos/Imagenes/Pasted image 20240921004213.png",
     "Mundo/Dioses/El Eterno.md",
+    "Recursos/Imagenes/Pasted image 20241108000620.png",
+    "Mundo/Las 7 Islas/Zephyro.md",
+    "Personajes/NPCs/Miscelaneos/Zephyro/Myra.md",
+    "Lugares/El Cráneo Dorado.md",
     "Sesiones/Sesión 4.md",
+    "Sesiones/Sesión 3.md",
+    "Personajes/NPCs/Miscelaneos/Elysia.md",
+    "Personajes/NPCs/Miscelaneos/Dorian-'El Informante'.md",
+    "Personajes/NPCs/Miscelaneos/Zephyro/Kaelen.md",
+    "Personajes/NPCs/Miscelaneos/Zephyro/Lyara.md",
+    "Recursos/Imagenes/Pasted image 20241205213420.png",
+    "Recursos/Imagenes/Pasted image 20241205213401.png",
+    "Campaña.md",
     "Sesiones/Sesión 2.md",
     "Mundo/Dioses/Eva.md",
-    "Mundo/Las 7 Islas/Zephyro.md",
-    "Sesiones/Sesión 3.md",
-    "Sesiones/Sesión 1.md",
-    "Personajes/NPCs/Miscelaneos/Zephyro/Myra.md",
     "Palabras que sabemos.md",
     "Objetos/Cristalicita.md",
     "Mundo/Las 7 Islas",
-    "Personajes/NPCs/Miscelaneos/Zephyro/Lyara.md",
-    "Personajes/NPCs/Miscelaneos/Zephyro/Kaelen.md",
-    "Campaña.md",
-    "Personajes/NPCs/Miscelaneos/Elysia.md",
     "Personajes/NPCs/Miscelaneos/Zephyro",
     "Objetos/Vórtex.md",
     "Lugares/Templo de Agel.md",
-    "Recursos/Imagenes/Pasted image 20241108000620.png",
     "Recursos/Imagenes/Pasted image 20241107234336.png",
     "Recursos/Imagenes/Pasted image 20241107234317.png",
     "Recursos/Imagenes/Pasted image 20241107223616.png",
@@ -234,16 +242,8 @@
     "Personajes/PCs/Alais.md",
     "Mundo/Naciones/Arnza.md",
     "Mundo/Naciones/Arntlei.md",
-    "Mundo/Naciones/Arggatral.md",
-    "Mundo/Naciones/Arathia.md",
-    "Personajes/NPCs/Miscelaneos/Vórtex ⛵​/Eldan.md",
-    "Personajes/NPCs/Miscelaneos/Vórtex ⛵​/Brug.md",
-    "Personajes/NPCs/Miscelaneos/Vórtex ⛵​/Kethis.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Recursos/Imagenes/Pasted image 20241011222234.png",
-    "Recursos/Imagenes/Pasted image 20241011222157.png",
-    "Recursos/Imagenes/Pasted image 20241011221726.png",
     "Personajes/NPCs/Miscelaneos/Vórtex ⛵​",
     "Misiones/Completadas",
     "Misiones"
