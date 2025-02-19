@@ -18,7 +18,7 @@ Tras hablar con Talon, vamos a hablar con Aaric, el maestro artesano. Tiene 42 a
 Desde las otras islas ha habido algunos sucesos con un personaje que está asaltando los templos. En las otras listas se le conoce como [[El inquisidor alado]]. Lleva una armadura completa, con alas. 
 Quiere información, saber qué es lo que pasa. No saben si han asaltado ya el templo de Zephyro. 
 
-Llevamos a Aaric hasta el barco para que investigue como podria arreglarse. Intento ver las estrellas para comprobar que el cielo corresponde, pero no saco ninguna conclusión. 
+Llevamos a Talon hasta el barco para que investigue como podria arreglarse. Intento ver las estrellas para comprobar que el cielo corresponde, pero no saco ninguna conclusión. 
 
 
 

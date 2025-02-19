@@ -1,2 +1,2 @@
 
-![](https://cdn.discordapp.com/attachments/1282719751293894676/1282719751549878363/latest.png?ex=66eee1dc&is=66ed905c&hm=f18466ab29978255de27b62fa48eccf618387192296bddd672c59cc6e8b8c101&)
+![[Pasted image 20250218230729.png]]

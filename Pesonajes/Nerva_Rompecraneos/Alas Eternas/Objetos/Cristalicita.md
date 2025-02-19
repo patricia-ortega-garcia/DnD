@@ -1,4 +1,4 @@
-![|300](https://cdn.discordapp.com/attachments/1281774637893554286/1281774638258720833/file-MXB3PKVawPR7bCJGGeRXfHaJ.png?ex=66eebd67&is=66ed6be7&hm=8d4bab8f17e4d7af8d460f4c3faa8d7374b95d977e34b5bf66c03b4ba65c08a8&)
+![[Pasted image 20250219010525.png|300]]
 
 La Crystalicita es una piedra mística de aspecto cautivador y enigmático. Se asemeja a un trozo de obsidiana, pero es más irregular y rugosa, con bordes dentados que le confieren un aspecto crudo y natural. Su color es un negro profundo, destacando su origen mágico y misterioso.
 
