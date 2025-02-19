@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe198ce05f3222e",
+        "id": "035d95187220d355",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc0442d0d618cc8",
+            "id": "fed3ec982128fbb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos/Barcos voladores/Vórtex.md",
+                "file": "El inquisidor alado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vórtex"
-            }
-          },
-          {
-            "id": "cdadd7456b39ea42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 5"
-            }
-          },
-          {
-            "id": "c6ebfcf1279ffce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 7"
-            }
-          },
-          {
-            "id": "f7855da02d466ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetos/Barcos voladores/El de los piratas del cielo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El de los piratas del cielo"
+              "title": "El inquisidor alado"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,28 +174,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6ebfcf1279ffce4",
+  "active": "fed3ec982128fbb6",
   "lastOpenFiles": [
-    "Pasted image 20250219011713.png",
-    "Pasted image 20250219011709.png",
-    "Pasted image 20250219011249.png",
-    "Objetos/Cristalicita.md",
-    "Sesiones/Sesión 7.md",
-    "Imagenes/Pasted image 20250219010525.png",
-    "Imagenes/Pasted image 20250219010501.png",
-    "Imagenes/Pasted image 20250218231046.png",
     "Sesiones/Sesión 5.md",
+    "El inquisidor alado.md",
     "Sesiones/Sesión 6.md",
-    "Objetos/Barcos voladores/El de los piratas del cielo.md",
+    "Sesiones/Sesión 7.md",
+    "Organizaciones/La Escama Negra.md",
+    "Z_Imagenes/Pasted image 20250219013503.png",
+    "Objetos/Barcos voladores/Ágelor.md",
+    "Personajes/NPCs/Villanos/La escama Negra/Zarkor.md",
+    "Personajes/NPCs/Villanos/La escama Negra/Zil.md",
+    "Personajes/NPCs/Villanos/La escama Negra/Vira.md",
+    "Z_Imagenes/Pasted image 20250219013451.png",
+    "Personajes/NPCs/Villanos/La escama Negra/Raka.md",
+    "Z_Imagenes/Pasted image 20250219013438.png",
+    "Personajes/NPCs/Villanos/La escama Negra/Mik.md",
+    "Z_Imagenes/Pasted image 20250219013424.png",
+    "Palabras que sabemos.md",
+    "Untitled.md",
+    "Z_Imagenes/Pasted image 20250219013310.png",
+    "Organizaciones",
+    "Personajes/NPCs/Villanos/La escama Negra",
     "Objetos/Barcos voladores/Vórtex.md",
+    "Z_Imagenes/Pasted image 20250219011249.png",
+    "Z_Imagenes/Pasted image 20250219011713.png",
+    "Z_Imagenes/Pasted image 20250219011709.png",
+    "Objetos/Cristalicita.md",
+    "Z_Imagenes/Pasted image 20250219010525.png",
+    "Z_Imagenes/Pasted image 20250219010501.png",
     "Objetos/Barcos voladores/El que vimos en la isla.md",
     "Personajes/NPCs/Miscelaneos/Vórtex ⛵​/Ray.md",
     "Campaña.md",
-    "Imagenes/Pasted image 20250218230729.png",
-    "Imagenes/Kraag_Rompecraneos.webp",
-    "Imagenes/latest.webp",
-    "Imagenes/Nerva_Rompecraneos.png",
-    "Imagenes/Pasted image 20240920234735.png",
     "Mundo/Naciones/Yleth'Um.md",
     "Mundo/Naciones/Arnza.md",
     "Mundo/Naciones/Arntlei.md",
@@ -246,15 +213,6 @@
     "Mundo/Naciones/Arathia.md",
     "Mundo/Las 7 Islas/Zephyro.md",
     "Mundo/Las 7 Islas/Talassa.md",
-    "Mundo/Dioses/Eva.md",
-    "Mundo/Dioses/El Eterno.md",
-    "Lugares/El Filo Dorado.md",
-    "Lugares/El Cráneo Dorado.md",
-    "Palabras que sabemos.md",
-    "Sesiones/Sesión 2.md",
-    "Sesiones/Sesión 1.md",
-    "Sesiones/Sesión 3.md",
-    "Personajes/PCs/Alais.md",
     "Objetos/Barcos voladores",
     "Mundo/Las 7 Islas",
     "Personajes/NPCs/Miscelaneos/Zephyro",

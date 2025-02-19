@@ -1,1 +1,0 @@
-Con el que llegamos a la isla, era de los kobolds.

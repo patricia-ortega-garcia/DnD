@@ -1,15 +1,18 @@
-![[Pasted image 20250218231046.png]]
+Al entrar en la sala, encontramos a [[La Escama Negra]].
 
-Dicen que el barco que nos trajo hasta la isla no era suyo. 
+Intentamos tener una conversación con ellos para resolver algunas de las dudas que tenemos. 
 
-Nos dicen que [[Selene]] les contrató para seguirnos. Que aun tiene muchos contactos en el bajo mundo. Selene quería que los kobolds nos llevase a cierta gente para que pudiese jugar con nosotros. Sin embargo, ahora han descubierto que pueden ganar más dinero robando y vendiendo.
+Según ellos el [[Ágelor]] no era suyo.
 
-Cuando Solaris les dice que no van a poder salir de la isla para vender las cosas robadas, dicen tener un "nuevo socio"  que no pensaría lo mismo, pero se arrepienten de mencionarlo y no dicen más. Su "nuevo socio" parece ser [[El inquisidor alado]]. 
+Descubrimos que [[Selene]] les contrató para seguirnos. Al parecer aun tiene muchos contactos en el bajo mundo. Selene quería que los kobolds nos secuestrasen y entregasen a ciertos conocidos suyos, para que pudiese jugar con nosotros. Sin embargo, ahora han descubierto que pueden ganar más dinero robando y vendido.
 
 Tienen un saco lleno de cosas que han sacado del templo. Su socio les ha pedido robar eso a cambio del barco, oro, viajes por el mundo, ser piratas del cielo... 
 Asphodel rasga el saco de un flechazo, y de él caen rocas reforzadas con [[cristalicita]]. Han sacado estas rocas de la estatua de [[El Eterno]].
 
+Cuando Solaris les dice que no van a poder salir de la isla para vender las cosas robadas, dicen tener un "nuevo socio"  que no pensaría lo mismo, pero se arrepienten de mencionarlo y no dicen más. Su "nuevo socio" parece ser [[El inquisidor alado]]. 
+
 La conversación escala a una pelea. 
+
 Mientras está ocurriendo la pelea, escuchamos un ruido fuera del templo. Después, unos pasos pesados que se acercan a la sala donde estamos.
 ![[Pasted image 20250219011249.png|400]]
 (Alas recogidas y de armadura)
