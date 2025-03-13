@@ -13,7 +13,7 @@ Conocemos a Talon (45 años, el mayor de los mayores). Alas grisáceas, ojos pá
 
 Si pierdes el collar no eres "digno del Eterno", y eres exiliada. 
 
-Tras hablar con Talon, vamos a hablar con Aaric, el maestro artesano. Tiene 42 años, es fuerte, robusto y sus manos marcadas por el oficio. Lleva ropa de trabajo y herramientas siempre disponibles. 
+Tras hablar con Talon, vamos a hablar con [[Aaric]], el maestro artesano. Tiene 42 años, es fuerte, robusto y sus manos marcadas por el oficio. Lleva ropa de trabajo y herramientas siempre disponibles. 
 
 Desde las otras islas ha habido algunos sucesos con un personaje que está asaltando los templos. En las otras listas se le conoce como [[El inquisidor alado]]. Lleva una armadura completa, con alas. 
 Quiere información, saber qué es lo que pasa. No saben si han asaltado ya el templo de Zephyro. 

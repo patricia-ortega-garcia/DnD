@@ -8,3 +8,4 @@ Esta piedra no solo es una maravilla visual, sino que también es un artefacto c
 
 En el [[Templo de Agel]] encontramos 2 piedras, aunque algo distintas de las comunes.
 ![[Pasted image 20241011215923.png|300]]![[Pasted image 20241011215943.png|300]]
+La leyenda dice que hay 4 cristalicitas imperiales de unos 4-5 metros de altura que les protege de los peligros del exterior, que impiden que nada salga o entre de las islas. En el templo se les entrega la piedra a los recien nacidos, delante de la estatua del Eternos.  El eterno creó las cristalicitas, por lo que son parte de él. Hace muchos que no se pueden comunicar con él, pero siguen sabiendo que está vivo, es eterno. 

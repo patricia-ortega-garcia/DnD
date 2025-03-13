@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "aab5fec095d0b763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Dioses/El Eterno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Eterno"
+            }
+          },
+          {
             "id": "fed3ec982128fbb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El inquisidor alado.md",
+                "file": "Sesiones/Sesión 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El inquisidor alado"
+              "title": "Sesión 8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +192,18 @@
   "active": "fed3ec982128fbb6",
   "lastOpenFiles": [
     "Sesiones/Sesión 5.md",
-    "El inquisidor alado.md",
+    "Mundo/Dioses/El Eterno.md",
     "Sesiones/Sesión 6.md",
+    "Sesiones/Sesión 8.md",
+    "Personajes/PCs/Nerva Rompecráneos.md",
+    "Objetos/Cristalicita.md",
+    "Campaña.md",
+    "Sesiones/Sesión 3.md",
+    "Sesiones/Sesión 4.md",
     "Sesiones/Sesión 7.md",
+    "Palabras que sabemos.md",
+    "Personajes/NPCs/Villanos/La escama Negra/Mik.md",
+    "Personajes/NPCs/Villanos/El inquisidor alado.md",
     "Organizaciones/La Escama Negra.md",
     "Z_Imagenes/Pasted image 20250219013503.png",
     "Objetos/Barcos voladores/Ágelor.md",
@@ -189,9 +213,7 @@
     "Z_Imagenes/Pasted image 20250219013451.png",
     "Personajes/NPCs/Villanos/La escama Negra/Raka.md",
     "Z_Imagenes/Pasted image 20250219013438.png",
-    "Personajes/NPCs/Villanos/La escama Negra/Mik.md",
     "Z_Imagenes/Pasted image 20250219013424.png",
-    "Palabras que sabemos.md",
     "Untitled.md",
     "Z_Imagenes/Pasted image 20250219013310.png",
     "Organizaciones",
@@ -200,19 +222,13 @@
     "Z_Imagenes/Pasted image 20250219011249.png",
     "Z_Imagenes/Pasted image 20250219011713.png",
     "Z_Imagenes/Pasted image 20250219011709.png",
-    "Objetos/Cristalicita.md",
     "Z_Imagenes/Pasted image 20250219010525.png",
     "Z_Imagenes/Pasted image 20250219010501.png",
     "Objetos/Barcos voladores/El que vimos en la isla.md",
     "Personajes/NPCs/Miscelaneos/Vórtex ⛵​/Ray.md",
-    "Campaña.md",
     "Mundo/Naciones/Yleth'Um.md",
     "Mundo/Naciones/Arnza.md",
     "Mundo/Naciones/Arntlei.md",
-    "Mundo/Naciones/Arggatral.md",
-    "Mundo/Naciones/Arathia.md",
-    "Mundo/Las 7 Islas/Zephyro.md",
-    "Mundo/Las 7 Islas/Talassa.md",
     "Objetos/Barcos voladores",
     "Mundo/Las 7 Islas",
     "Personajes/NPCs/Miscelaneos/Zephyro",

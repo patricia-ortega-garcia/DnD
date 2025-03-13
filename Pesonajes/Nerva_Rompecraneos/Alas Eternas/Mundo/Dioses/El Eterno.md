@@ -12,7 +12,7 @@ En el templo se les entrega la piedra a los recién nacidos, delante de la estat
 
 Las cristalicitas de la gente que se ha muerto se transforma y se llena de energía y pasan a ser completamente negras. Las utilizan como fuente de energia. 
 
-Los jovenes son aventureros. Los adultos se vuelven frios y más apáticos. Myra es una adulta que no llevaba colgante y es la única que conserva una actitud y personalidad.
+Los jovenes son aventureros. Los adultos se vuelven frios y más apáticos. [[Myra]] es una adulta que no llevaba colgante y es la única que conserva una actitud y personalidad.
 
 Cuando mueren el cuerpo desaparece y solo queda su cristalicita.
 

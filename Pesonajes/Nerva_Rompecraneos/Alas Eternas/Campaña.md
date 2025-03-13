@@ -28,5 +28,6 @@ Roll20: https://app.roll20.net/join/18037645/WaGuOQ
 - [[Sesión 5]] 05/12/2024
 - [[Sesión 6]] 10/01/2025
 - [[Sesión 7]] 18/02/2025
+- [[Sesión 8]] 13/03/2025
 ## Orbain
 ![](https://cdn2.inkarnate.com/8bVuNG5FzDetddxwPPhSdA?disposition=attachment)
